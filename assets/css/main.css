@@ -554,6 +554,9 @@ h6 {
   .navbar .dropdown .dropdown > .dropdown-active {
     display: block;
   }
+  .bi-instagram{
+    color: black;
+  }
 
   .mobile-nav-show {
     color:black;
